@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SnookerCounter</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="player1startingscore">0</string>
+    <string name="player2startingscore">0</string>
+    <string name="changeplayer">Change player</string>
+    <string name="startFrame">Start frame</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="breikki">Breikki</string>
+    <string name="virhe">Virhetila</string>
+    <string name="virhetilaPäälle">Virhetila päälle</string>
+    <string name="virhetilaPois">Virhetila pois</string>
+
+    <string name="ulplayer1"><u>Player 1</u></string>
+    <string name="ulplayer2"><u>Player 2</u></string>
+    <string name="MAPS_API_KEY">AIzaSyANK2604bYBdzaj9etUpNSGijVwjhPX7ps</string>
+</resources>

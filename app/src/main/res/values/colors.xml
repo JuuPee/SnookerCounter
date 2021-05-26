@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#419E48</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="textViewBackground">#000000</color>
+    <color name="textColor">#ffffff</color>
+
+    <color name="add1primary">#F44336</color>
+    <color name="add1secondary">#E76E63</color>
+
+    <color name="add2primary">#FFEB3B</color>
+    <color name="add2secondary">#DFCF55</color>
+
+    <color name="add3primary">#0EB417</color>
+    <color name="add3secondary">#3BC443</color>
+
+    <color name="add4primary">#DA9641</color>
+    <color name="add4secondary">#E4A35A</color>
+
+    <color name="add5primary">#2196F3</color>
+    <color name="add5secondary">#4A98C5</color>
+
+    <color name="add6primary">#FFC0CB</color>
+    <color name="add6secondary">#F1CAD2</color>
+
+    <color name="add7primary">#000000</color>
+    <color name="add7secondary">#4B4B42</color>
+
+    <color name="virhe">#FF0000</color>
+</resources>
